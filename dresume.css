@@ -1,0 +1,24 @@
+#name,#name1,#name2,#name3,#name4,#name5{
+	background-color: #ddd;
+	color:#c45e45;
+	border:2px solid #000;
+}
+.child{
+	border:2px solid #000;
+	margin:5px;
+}
+.parent-div{
+	/*display: flex;*/
+	border: 2px solid #000;
+	margin: 5px;
+}
+table,td,tr{
+	border: 2px solid #000;
+	border-collapse: collapse;
+}
+ul{
+	font-size:20px;
+}
+p{
+	font-size: 20px;
+}
